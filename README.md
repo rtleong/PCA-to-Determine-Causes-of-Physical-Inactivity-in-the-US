@@ -10,3 +10,11 @@ This Project was my personal contribution to a collaborative project to determin
  4. Principal Component Analysis
  5. Recommendation
  6. Thoughts and Lessons Learned
+
+### View our Medium Article
+
+https://medium.com/@ucladsu/healthy-communties-b8e02cc8ec81
+
+### Credits 
+
+Project Contributors: Rithwik Narendra. Emily Widjaja, Maia Smolyanov, Natalie Chapin
