@@ -15,6 +15,9 @@ This Project was my personal contribution to a collaborative project to determin
 
 https://medium.com/@ucladsu/healthy-communties-b8e02cc8ec81
 
+## Considerations
+This was one of my first self-guided projects involving *most* of the DS lifecycle, including Data Cleaning, EDA, ML (PCA), and testing. The strategies implemented are not the most efficient, and the coding style is not the cleanest, but this projects served as a valuable learning experience to develop the skill of writing clean and readable programs, and considering all types of algorithms and models to implement.
+
 ### Credits 
 
 Project Contributors: Rithwik Narendra. Emily Widjaja, Maia Smolyanov, Natalie Chapin
